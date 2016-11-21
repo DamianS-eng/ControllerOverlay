@@ -1,0 +1,251 @@
+<svg id="Stick_Pressed" data-name="Stick Pressed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="83" viewBox="0 0 168 83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-2 {
+        fill: #e0e0e0;
+      }
+
+      .cls-3 {
+        filter: url(#filter);
+      }
+
+      .cls-4 {
+        fill: silver;
+        fill-rule: evenodd;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#c8c8c8"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="41.5" cy="41.5" r="41.5"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="41.5" cy="41.5" r="39.5"/>
+  <g class="cls-3">
+    <g>
+      <g>
+        <g>
+          <path class="cls-4" d="M41.019,2h0.962V21.526H41.019V2Z"/>
+          <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-4" d="M41.019,61.474h0.962V81H41.019V61.474Z"/>
+          <path id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" class="cls-4" d="M61.474,41.019H81v0.962H61.474V41.019Z"/>
+          <path id="Rectangle_3_copy_3" data-name="Rectangle 3 copy 3" class="cls-4" d="M2,41.019H21.526v0.962H2V41.019Z"/>
+        </g>
+        <g id="Group_3_copy" data-name="Group 3 copy">
+          <path class="cls-4" d="M69.1,13.241L69.759,13.9l-13.8,13.8L55.3,27.042Z"/>
+          <path id="Rectangle_3_copy-2" data-name="Rectangle 3 copy" class="cls-4" d="M27.042,55.3L27.7,55.958l-13.8,13.8L13.241,69.1Z"/>
+          <path id="Rectangle_3_copy_2-2" data-name="Rectangle 3 copy 2" class="cls-4" d="M55.958,55.3l13.8,13.8-0.657.657-13.8-13.8Z"/>
+          <path id="Rectangle_3_copy_3-2" data-name="Rectangle 3 copy 3" class="cls-4" d="M13.9,13.241l13.8,13.8-0.657.657-13.8-13.8Z"/>
+        </g>
+        <g id="Group_3_copy_2" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M56.187,4.829l0.859,0.356L49.576,23.217l-0.859-.356Z"/>
+          <path id="Rectangle_3_copy-3" data-name="Rectangle 3 copy" class="cls-4" d="M33.424,59.784l0.859,0.356L26.813,78.171l-0.859-.356Z"/>
+          <path id="Rectangle_3_copy_2-3" data-name="Rectangle 3 copy 2" class="cls-4" d="M60.139,48.718l18.032,7.469-0.356.859L59.784,49.576Z"/>
+          <path id="Rectangle_3_copy_3-3" data-name="Rectangle 3 copy 3" class="cls-4" d="M5.185,25.955l18.032,7.469-0.356.859L4.829,26.813Z"/>
+        </g>
+        <g id="Group_3_copy_3" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M77.815,25.955l0.356,0.859L60.139,34.282l-0.356-.859Z"/>
+          <path id="Rectangle_3_copy-4" data-name="Rectangle 3 copy" class="cls-4" d="M22.861,48.718l0.356,0.859L5.185,57.045l-0.356-.859Z"/>
+          <path id="Rectangle_3_copy_2-4" data-name="Rectangle 3 copy 2" class="cls-4" d="M49.576,59.784l7.469,18.032-0.859.356L48.718,60.139Z"/>
+          <path id="Rectangle_3_copy_3-4" data-name="Rectangle 3 copy 3" class="cls-4" d="M26.813,4.829l7.469,18.032-0.859.356L25.955,5.185Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy" data-name="Group 4 copy">
+        <g>
+          <path class="cls-4" d="M48.75,2.668L49.662,2.85,45.854,21.992l-0.912-.181Z"/>
+          <path id="Rectangle_3_copy-5" data-name="Rectangle 3 copy" class="cls-4" d="M37.146,61.008l0.912,0.181L34.25,80.332l-0.911-.181Z"/>
+          <path id="Rectangle_3_copy_2-5" data-name="Rectangle 3 copy 2" class="cls-4" d="M61.189,44.943L80.332,48.75l-0.181.911L61.008,45.854Z"/>
+          <path id="Rectangle_3_copy_3-5" data-name="Rectangle 3 copy 3" class="cls-4" d="M2.85,33.338l19.143,3.808-0.181.912L2.668,34.25Z"/>
+        </g>
+        <g id="Group_3_copy-2" data-name="Group 3 copy">
+          <path class="cls-4" d="M74.085,19.169L74.6,19.941,58.373,30.785l-0.516-.773Z"/>
+          <path id="Rectangle_3_copy-6" data-name="Rectangle 3 copy" class="cls-4" d="M24.627,52.215l0.516,0.773L8.915,63.831,8.4,63.059Z"/>
+          <path id="Rectangle_3_copy_2-6" data-name="Rectangle 3 copy 2" class="cls-4" d="M52.988,57.857L63.831,74.085l-0.773.516L52.215,58.373Z"/>
+          <path id="Rectangle_3_copy_3-6" data-name="Rectangle 3 copy 3" class="cls-4" d="M19.941,8.4L30.785,24.627l-0.773.516L19.169,8.915Z"/>
+        </g>
+        <g id="Group_3_copy_2-2" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M63.059,8.4l0.773,0.516L52.988,25.144l-0.773-.516Z"/>
+          <path id="Rectangle_3_copy-7" data-name="Rectangle 3 copy" class="cls-4" d="M30.012,57.857l0.773,0.516L19.941,74.6l-0.773-.516Z"/>
+          <path id="Rectangle_3_copy_2-7" data-name="Rectangle 3 copy 2" class="cls-4" d="M58.373,52.215L74.6,63.059l-0.516.773L57.857,52.988Z"/>
+          <path id="Rectangle_3_copy_3-7" data-name="Rectangle 3 copy 3" class="cls-4" d="M8.915,19.169L25.144,30.012l-0.516.773L8.4,19.941Z"/>
+        </g>
+        <g id="Group_3_copy_3-2" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M80.15,33.338l0.181,0.911L61.189,38.057l-0.181-.912Z"/>
+          <path id="Rectangle_3_copy-8" data-name="Rectangle 3 copy" class="cls-4" d="M21.811,44.943l0.181,0.912L2.85,49.662,2.668,48.75Z"/>
+          <path id="Rectangle_3_copy_2-8" data-name="Rectangle 3 copy 2" class="cls-4" d="M45.854,61.008L49.662,80.15l-0.911.181L44.943,61.189Z"/>
+          <path id="Rectangle_3_copy_3-8" data-name="Rectangle 3 copy 3" class="cls-4" d="M34.25,2.668l3.808,19.143-0.912.181L33.338,2.85Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy_2" data-name="Group 4 copy 2">
+        <g>
+          <path class="cls-4" d="M44.913,2.145l0.925,0.091L43.923,21.66,43,21.568Z"/>
+          <path id="Rectangle_3_copy-9" data-name="Rectangle 3 copy" class="cls-4" d="M39.077,61.34L40,61.432,38.087,80.855l-0.925-.091Z"/>
+          <path id="Rectangle_3_copy_2-9" data-name="Rectangle 3 copy 2" class="cls-4" d="M61.432,43l19.423,1.915-0.091.925L61.34,43.923Z"/>
+          <path id="Rectangle_3_copy_3-9" data-name="Rectangle 3 copy 3" class="cls-4" d="M2.236,37.162L21.66,39.077,21.568,40,2.145,38.087Z"/>
+        </g>
+        <g id="Group_3_copy-3" data-name="Group 3 copy">
+          <path class="cls-4" d="M71.741,16.085l0.59,0.718L57.242,29.184l-0.59-.719Z"/>
+          <path id="Rectangle_3_copy-10" data-name="Rectangle 3 copy" class="cls-4" d="M25.758,53.816l0.59,0.718L11.259,66.915l-0.59-.718Z"/>
+          <path id="Rectangle_3_copy_2-10" data-name="Rectangle 3 copy 2" class="cls-4" d="M54.535,56.653l12.38,15.088-0.718.59L53.816,57.242Z"/>
+          <path id="Rectangle_3_copy_3-10" data-name="Rectangle 3 copy 3" class="cls-4" d="M16.8,10.669L29.184,25.758l-0.719.59L16.085,11.259Z"/>
+        </g>
+        <g id="Group_3_copy_2-3" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M59.713,6.447l0.82,0.438L51.331,24.1l-0.82-.438Z"/>
+          <path id="Rectangle_3_copy-11" data-name="Rectangle 3 copy" class="cls-4" d="M31.669,58.9l0.82,0.438-9.2,17.212-0.82-.438Z"/>
+          <path id="Rectangle_3_copy_2-11" data-name="Rectangle 3 copy 2" class="cls-4" d="M59.341,50.511l17.212,9.2-0.438.82L58.9,51.331Z"/>
+          <path id="Rectangle_3_copy_3-11" data-name="Rectangle 3 copy 3" class="cls-4" d="M6.885,22.467l17.212,9.2-0.438.82-17.212-9.2Z"/>
+        </g>
+        <g id="Group_3_copy_3-3" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M79.165,29.592l0.27,0.889L60.757,36.146l-0.27-.889Z"/>
+          <path id="Rectangle_3_copy-12" data-name="Rectangle 3 copy" class="cls-4" d="M22.243,46.854l0.27,0.889L3.835,53.408l-0.27-.889Z"/>
+          <path id="Rectangle_3_copy_2-12" data-name="Rectangle 3 copy 2" class="cls-4" d="M47.744,60.488l5.664,18.678-0.889.27L46.854,60.757Z"/>
+          <path id="Rectangle_3_copy_3-12" data-name="Rectangle 3 copy 3" class="cls-4" d="M30.482,3.565l5.664,18.678-0.889.27L29.592,3.835Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy_3" data-name="Group 4 copy 3">
+        <g>
+          <path class="cls-4" d="M52.525,3.567l0.889,0.27L47.747,22.514l-0.889-.27Z"/>
+          <path id="Rectangle_3_copy-13" data-name="Rectangle 3 copy" class="cls-4" d="M35.253,60.487l0.889,0.27L30.475,79.433l-0.889-.27Z"/>
+          <path id="Rectangle_3_copy_2-13" data-name="Rectangle 3 copy 2" class="cls-4" d="M60.756,46.858l18.677,5.667-0.27.889L60.487,47.747Z"/>
+          <path id="Rectangle_3_copy_3-13" data-name="Rectangle 3 copy 3" class="cls-4" d="M3.837,29.586l18.677,5.667-0.27.889L3.567,30.475Z"/>
+        </g>
+        <g id="Group_3_copy-4" data-name="Group 3 copy">
+          <path class="cls-4" d="M76.119,22.473l0.438,0.82-17.214,9.2-0.438-.82Z"/>
+          <path id="Rectangle_3_copy-14" data-name="Rectangle 3 copy" class="cls-4" d="M23.657,50.508l0.438,0.82-17.214,9.2-0.438-.82Z"/>
+          <path id="Rectangle_3_copy_2-14" data-name="Rectangle 3 copy 2" class="cls-4" d="M51.328,58.9l9.2,17.214-0.82.438-9.2-17.214Z"/>
+          <path id="Rectangle_3_copy_3-14" data-name="Rectangle 3 copy 3" class="cls-4" d="M23.293,6.443l9.2,17.214-0.82.438-9.2-17.214Z"/>
+        </g>
+        <g id="Group_3_copy_2-4" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M66.2,10.673l0.718,0.59L54.537,26.349l-0.718-.59Z"/>
+          <path id="Rectangle_3_copy-15" data-name="Rectangle 3 copy" class="cls-4" d="M28.463,56.651l0.718,0.59L16.8,72.327l-0.718-.59Z"/>
+          <path id="Rectangle_3_copy_2-15" data-name="Rectangle 3 copy 2" class="cls-4" d="M57.24,53.819L72.327,66.2l-0.59.718L56.651,54.537Z"/>
+          <path id="Rectangle_3_copy_3-15" data-name="Rectangle 3 copy 3" class="cls-4" d="M11.263,16.08L26.349,28.463l-0.59.718L10.673,16.8Z"/>
+        </g>
+        <g id="Group_3_copy_3-4" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M80.765,37.169l0.091,0.925L61.432,40.006l-0.091-.925Z"/>
+          <path id="Rectangle_3_copy-16" data-name="Rectangle 3 copy" class="cls-4" d="M21.568,42.994l0.091,0.925L2.235,45.831l-0.091-.925Z"/>
+          <path id="Rectangle_3_copy_2-16" data-name="Rectangle 3 copy 2" class="cls-4" d="M43.919,61.341l1.911,19.424-0.925.091L42.994,61.432Z"/>
+          <path id="Rectangle_3_copy_3-16" data-name="Rectangle 3 copy 3" class="cls-4" d="M38.094,2.144l1.911,19.424-0.925.091L37.169,2.235Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <circle id="inner_big" class="cls-1" cx="41.5" cy="41.5" r="30.5"/>
+  <circle id="inner_small" cx="41.5" cy="41.5" r="23.5"/>
+  <circle class="cls-1" cx="126.5" cy="41.5" r="41.5"/>
+  <circle id="Ellipse_1_copy-2" data-name="Ellipse 1 copy" class="cls-2" cx="126.5" cy="41.5" r="39.5"/>
+  <g class="cls-3">
+    <g>
+      <g>
+        <g>
+          <path class="cls-4" d="M126.051,2h0.9V21.526h-0.9V2Z"/>
+          <path id="Rectangle_3_copy-17" data-name="Rectangle 3 copy" class="cls-4" d="M126.051,61.474h0.9V81h-0.9V61.474Z"/>
+          <path id="Rectangle_3_copy_2-17" data-name="Rectangle 3 copy 2" class="cls-4" d="M146.474,41.051H166v0.9H146.474v-0.9Z"/>
+          <path id="Rectangle_3_copy_3-17" data-name="Rectangle 3 copy 3" class="cls-4" d="M87,41.051h19.526v0.9H87v-0.9Z"/>
+        </g>
+        <g id="Group_3_copy-5" data-name="Group 3 copy">
+          <path class="cls-4" d="M154.1,13.241l0.657,0.657-13.8,13.8-0.657-.657Z"/>
+          <path id="Rectangle_3_copy-18" data-name="Rectangle 3 copy" class="cls-4" d="M112.042,55.3l0.657,0.657-13.8,13.8L98.241,69.1Z"/>
+          <path id="Rectangle_3_copy_2-18" data-name="Rectangle 3 copy 2" class="cls-4" d="M140.958,55.3l13.8,13.8-0.657.657-13.8-13.8Z"/>
+          <path id="Rectangle_3_copy_3-18" data-name="Rectangle 3 copy 3" class="cls-4" d="M98.9,13.241l13.8,13.8-0.657.657-13.8-13.8Z"/>
+        </g>
+        <g id="Group_3_copy_2-5" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M141.187,4.829l0.858,0.356-7.469,18.032-0.858-.356Z"/>
+          <path id="Rectangle_3_copy-19" data-name="Rectangle 3 copy" class="cls-4" d="M118.424,59.784l0.858,0.356-7.469,18.032-0.858-.356Z"/>
+          <path id="Rectangle_3_copy_2-19" data-name="Rectangle 3 copy 2" class="cls-4" d="M145.139,48.718l18.032,7.469-0.356.859-18.032-7.469Z"/>
+          <path id="Rectangle_3_copy_3-19" data-name="Rectangle 3 copy 3" class="cls-4" d="M90.185,25.955l18.032,7.469-0.356.859L89.829,26.813Z"/>
+        </g>
+        <g id="Group_3_copy_3-5" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M162.815,25.955l0.356,0.859-18.032,7.469-0.356-.859Z"/>
+          <path id="Rectangle_3_copy-20" data-name="Rectangle 3 copy" class="cls-4" d="M107.861,48.718l0.356,0.859L90.185,57.045l-0.356-.859Z"/>
+          <path id="Rectangle_3_copy_2-20" data-name="Rectangle 3 copy 2" class="cls-4" d="M134.576,59.784l7.469,18.032-0.858.356-7.469-18.032Z"/>
+          <path id="Rectangle_3_copy_3-20" data-name="Rectangle 3 copy 3" class="cls-4" d="M111.813,4.829l7.469,18.032-0.858.356L110.955,5.185Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy-2" data-name="Group 4 copy">
+        <g>
+          <path class="cls-4" d="M133.75,2.668l0.912,0.181-3.808,19.143-0.911-.181Z"/>
+          <path id="Rectangle_3_copy-21" data-name="Rectangle 3 copy" class="cls-4" d="M122.146,61.008l0.911,0.181L119.25,80.332l-0.912-.181Z"/>
+          <path id="Rectangle_3_copy_2-21" data-name="Rectangle 3 copy 2" class="cls-4" d="M146.189,44.943l19.143,3.808-0.182.911-19.142-3.808Z"/>
+          <path id="Rectangle_3_copy_3-21" data-name="Rectangle 3 copy 3" class="cls-4" d="M87.85,33.338l19.142,3.808-0.181.912L87.668,34.25Z"/>
+        </g>
+        <g id="Group_3_copy-6" data-name="Group 3 copy">
+          <path class="cls-4" d="M159.085,19.169l0.516,0.773L143.373,30.785l-0.516-.773Z"/>
+          <path id="Rectangle_3_copy-22" data-name="Rectangle 3 copy" class="cls-4" d="M109.627,52.215l0.516,0.773L93.915,63.831,93.4,63.059Z"/>
+          <path id="Rectangle_3_copy_2-22" data-name="Rectangle 3 copy 2" class="cls-4" d="M137.988,57.857l10.843,16.228-0.772.516L137.215,58.373Z"/>
+          <path id="Rectangle_3_copy_3-22" data-name="Rectangle 3 copy 3" class="cls-4" d="M104.941,8.4l10.844,16.228-0.773.516L104.169,8.915Z"/>
+        </g>
+        <g id="Group_3_copy_2-6" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M148.059,8.4l0.772,0.516L137.988,25.144l-0.773-.516Z"/>
+          <path id="Rectangle_3_copy-23" data-name="Rectangle 3 copy" class="cls-4" d="M115.012,57.857l0.773,0.516L104.941,74.6l-0.772-.516Z"/>
+          <path id="Rectangle_3_copy_2-23" data-name="Rectangle 3 copy 2" class="cls-4" d="M143.373,52.215L159.6,63.059l-0.516.773L142.857,52.988Z"/>
+          <path id="Rectangle_3_copy_3-23" data-name="Rectangle 3 copy 3" class="cls-4" d="M93.915,19.169l16.228,10.843-0.516.773L93.4,19.941Z"/>
+        </g>
+        <g id="Group_3_copy_3-6" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M165.15,33.338l0.182,0.911-19.143,3.808-0.181-.912Z"/>
+          <path id="Rectangle_3_copy-24" data-name="Rectangle 3 copy" class="cls-4" d="M106.811,44.943l0.181,0.912L87.85,49.662l-0.181-.911Z"/>
+          <path id="Rectangle_3_copy_2-24" data-name="Rectangle 3 copy 2" class="cls-4" d="M130.854,61.008l3.808,19.143-0.912.181-3.807-19.143Z"/>
+          <path id="Rectangle_3_copy_3-24" data-name="Rectangle 3 copy 3" class="cls-4" d="M119.25,2.668l3.807,19.143-0.911.181L118.338,2.85Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy_2-2" data-name="Group 4 copy 2">
+        <g>
+          <path class="cls-4" d="M129.913,2.145l0.925,0.091L128.923,21.66,128,21.568Z"/>
+          <path id="Rectangle_3_copy-25" data-name="Rectangle 3 copy" class="cls-4" d="M124.077,61.34L125,61.432l-1.915,19.423-0.925-.091Z"/>
+          <path id="Rectangle_3_copy_2-25" data-name="Rectangle 3 copy 2" class="cls-4" d="M146.432,43l19.423,1.915-0.091.925L146.34,43.923Z"/>
+          <path id="Rectangle_3_copy_3-25" data-name="Rectangle 3 copy 3" class="cls-4" d="M87.236,37.162l19.424,1.915L106.568,40,87.145,38.087Z"/>
+        </g>
+        <g id="Group_3_copy-7" data-name="Group 3 copy">
+          <path class="cls-4" d="M156.741,16.085l0.59,0.718L142.242,29.184l-0.589-.719Z"/>
+          <path id="Rectangle_3_copy-26" data-name="Rectangle 3 copy" class="cls-4" d="M110.758,53.816l0.589,0.718L96.259,66.915l-0.59-.718Z"/>
+          <path id="Rectangle_3_copy_2-26" data-name="Rectangle 3 copy 2" class="cls-4" d="M139.535,56.653l12.38,15.088-0.718.59L138.816,57.242Z"/>
+          <path id="Rectangle_3_copy_3-26" data-name="Rectangle 3 copy 3" class="cls-4" d="M101.8,10.669l12.381,15.089-0.719.59-12.38-15.088Z"/>
+        </g>
+        <g id="Group_3_copy_2-7" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M144.713,6.447l0.82,0.438-9.2,17.212-0.82-.438Z"/>
+          <path id="Rectangle_3_copy-27" data-name="Rectangle 3 copy" class="cls-4" d="M116.669,58.9l0.82,0.438-9.2,17.212-0.82-.438Z"/>
+          <path id="Rectangle_3_copy_2-27" data-name="Rectangle 3 copy 2" class="cls-4" d="M144.341,50.511l17.212,9.2-0.438.82-17.212-9.2Z"/>
+          <path id="Rectangle_3_copy_3-27" data-name="Rectangle 3 copy 3" class="cls-4" d="M91.885,22.467l17.212,9.2-0.438.82-17.212-9.2Z"/>
+        </g>
+        <g id="Group_3_copy_3-7" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M164.165,29.592l0.27,0.889-18.678,5.664-0.269-.889Z"/>
+          <path id="Rectangle_3_copy-28" data-name="Rectangle 3 copy" class="cls-4" d="M107.243,46.854l0.269,0.889L88.835,53.408l-0.27-.889Z"/>
+          <path id="Rectangle_3_copy_2-28" data-name="Rectangle 3 copy 2" class="cls-4" d="M132.744,60.488l5.664,18.678-0.89.27-5.664-18.678Z"/>
+          <path id="Rectangle_3_copy_3-28" data-name="Rectangle 3 copy 3" class="cls-4" d="M115.482,3.565l5.664,18.678-0.89.27L114.592,3.835Z"/>
+        </g>
+      </g>
+      <g id="Group_4_copy_3-2" data-name="Group 4 copy 3">
+        <g>
+          <path class="cls-4" d="M137.525,3.567l0.889,0.27-5.667,18.677-0.889-.27Z"/>
+          <path id="Rectangle_3_copy-29" data-name="Rectangle 3 copy" class="cls-4" d="M120.253,60.487l0.889,0.27-5.667,18.677-0.889-.27Z"/>
+          <path id="Rectangle_3_copy_2-29" data-name="Rectangle 3 copy 2" class="cls-4" d="M145.756,46.858l18.677,5.667-0.27.889-18.677-5.667Z"/>
+          <path id="Rectangle_3_copy_3-29" data-name="Rectangle 3 copy 3" class="cls-4" d="M88.837,29.586l18.677,5.667-0.27.889L88.567,30.475Z"/>
+        </g>
+        <g id="Group_3_copy-8" data-name="Group 3 copy">
+          <path class="cls-4" d="M161.118,22.473l0.439,0.82-17.214,9.2-0.438-.82Z"/>
+          <path id="Rectangle_3_copy-30" data-name="Rectangle 3 copy" class="cls-4" d="M108.657,50.508l0.438,0.82-17.213,9.2-0.438-.82Z"/>
+          <path id="Rectangle_3_copy_2-30" data-name="Rectangle 3 copy 2" class="cls-4" d="M136.328,58.9l9.2,17.214-0.82.438-9.2-17.214Z"/>
+          <path id="Rectangle_3_copy_3-30" data-name="Rectangle 3 copy 3" class="cls-4" d="M108.293,6.443l9.2,17.214-0.82.438-9.2-17.214Z"/>
+        </g>
+        <g id="Group_3_copy_2-8" data-name="Group 3 copy 2">
+          <path class="cls-4" d="M151.2,10.673l0.718,0.59L139.537,26.349l-0.718-.59Z"/>
+          <path id="Rectangle_3_copy-31" data-name="Rectangle 3 copy" class="cls-4" d="M113.463,56.651l0.718,0.59L101.8,72.327l-0.718-.59Z"/>
+          <path id="Rectangle_3_copy_2-31" data-name="Rectangle 3 copy 2" class="cls-4" d="M142.24,53.819L157.327,66.2l-0.59.718L141.651,54.537Z"/>
+          <path id="Rectangle_3_copy_3-31" data-name="Rectangle 3 copy 3" class="cls-4" d="M96.263,16.08l15.086,12.383-0.589.718L95.673,16.8Z"/>
+        </g>
+        <g id="Group_3_copy_3-8" data-name="Group 3 copy 3">
+          <path class="cls-4" d="M165.765,37.169l0.091,0.925-19.424,1.911-0.091-.925Z"/>
+          <path id="Rectangle_3_copy-32" data-name="Rectangle 3 copy" class="cls-4" d="M106.568,42.994l0.091,0.925L87.235,45.831l-0.091-.925Z"/>
+          <path id="Rectangle_3_copy_2-32" data-name="Rectangle 3 copy 2" class="cls-4" d="M128.919,61.341l1.912,19.424-0.925.091-1.912-19.424Z"/>
+          <path id="Rectangle_3_copy_3-32" data-name="Rectangle 3 copy 3" class="cls-4" d="M123.094,2.144l1.912,19.424-0.925.091L122.169,2.235Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <circle id="inner_big-2" data-name="inner_big" class="cls-1" cx="126.5" cy="41.5" r="30.5"/>
+  <circle id="inner_small-2" data-name="inner_small" class="cls-2" cx="126.5" cy="41.5" r="23.5"/>
+</svg>
