@@ -1,0 +1,13 @@
+.xbox .stick {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/adam10603/ControllerOverlay/master/sticks.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0px auto;
+    overflow: hidden;
+}
