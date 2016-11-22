@@ -1,13 +1,18 @@
-.xbox .stick {
-    position: absolute;
-    background: url(https://adam10603.github.io/ControllerOverlay/sticks.png);
-    background-position: -85px 0;
-    height: 83px;
-    width: 83px;
+body {
+    overflow: hidden;
 }
 
-body {
-    background-color: rgba(0, 0, 0, 0);
-    margin: 0px auto;
-    overflow: hidden;
+iframe {
+    border-style: none;
+}
+
+* {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
 }
