@@ -20,9 +20,11 @@ function loadContents() {
     if (query.sc)       sc  = query.sc;
     if (query.delay) delay  = query.delay;
 
-    baseURL.replace("_PARAM_DZ_",       String(dz));
-    baseURL.replace("_PARAM_SC_",       String(sc));
-    baseURL.replace("_PARAM_DELAY_",    String(delay));
+    baseURL = baseURL.replace("_PARAM_DZ_",       String(dz));
+    baseURL = baseURL.replace("_PARAM_SC_",       String(sc));
+    baseURL = baseURL.replace("_PARAM_DELAY_",    String(delay));
+
+    alert(baseURL);
 
     var iframe          = document.createElement('iframe');
     iframe.src          = baseURL;
