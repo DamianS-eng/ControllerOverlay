@@ -24,8 +24,6 @@ function loadContents() {
     baseURL = baseURL.replace("_PARAM_SC_",       String(sc));
     baseURL = baseURL.replace("_PARAM_DELAY_",    String(delay));
 
-    alert(baseURL);
-
     var iframe          = document.createElement('iframe');
     iframe.src          = baseURL;
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
