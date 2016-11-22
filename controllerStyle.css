@@ -6,6 +6,13 @@
     width: 83px;
 }
 
+.xbox .button {
+    position: absolute;
+    background: url(https://adam10603.github.io/ControllerOverlay/abxy.png);
+    width: 48px;
+    height: 48px;
+}
+
 body {
     background-color: rgba(0, 0, 0, 0);
     margin: 0px auto;
