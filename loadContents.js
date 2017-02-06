@@ -33,7 +33,7 @@ function loadContents() {
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
 
-    sleep(1000);
+    sleep(5000);
 
     if (!localStorage.overlayReloaded) {
         localStorage.setItem("overlayReloaded", "true");
