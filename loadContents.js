@@ -28,6 +28,11 @@ function loadContents() {
     iframe.src          = baseURL;
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
+
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload(true);
+    }
 }
 
 window.onload = loadContents;
