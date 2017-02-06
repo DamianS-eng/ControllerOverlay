@@ -29,12 +29,12 @@ function loadContents() {
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
 
-    setTimeout(function(){ /*
+    setTimeout(function(){
         if (!localStorage.overlayReloaded) {
             localStorage.setItem("overlayReloaded", "true");
-            window.location.reload();
-        } */
-        alert("I am an alert box!");
+            window.location.reload(true);
+        }
+        //alert("I am an alert box!");
     }, 5000);
 }
 
