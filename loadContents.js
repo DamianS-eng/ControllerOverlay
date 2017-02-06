@@ -29,10 +29,13 @@ function loadContents() {
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
 
-    if(!window.location.hash) {
+    iframe.src = iframe.src;
+
+    /*
+    if (!window.location.hash) {
         window.location = window.location + '#loaded';
         window.location.reload(true);
-    }
+    } */
 }
 
 window.onload = loadContents;
