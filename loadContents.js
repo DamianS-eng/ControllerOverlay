@@ -28,14 +28,17 @@ function loadContents() {
     iframe.src          = baseURL;
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
+
+    setTimeout(function(){ /*
+        if (!localStorage.overlayReloaded) {
+            localStorage.setItem("overlayReloaded", "true");
+            window.location.reload(true);
+        } */
+        if (!window.location.hash) {
+            window.location = window.location + '#loaded';
+            window.location.reload(true);
+        }
+    }, 5000);
 }
 
 window.onload = loadContents;
-
-setTimeout(function(){
-    if (!localStorage.overlayReloaded) {
-        localStorage.setItem("overlayReloaded", "true");
-        window.location.reload(true);
-    }
-    //alert("I am an alert box!");
-}, 5000);
