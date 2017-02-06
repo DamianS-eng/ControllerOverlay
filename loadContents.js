@@ -9,10 +9,6 @@ function getQueryParams(qs) {
     return params;
 }
 
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-
 function loadContents() {
     var query   = getQueryParams(document.location.search);
     var baseURL = "https://gamepadviewer.com/?p=1&s=0&smeter=1&nocurve=1&sc=_PARAM_SC_&dz=_PARAM_DZ_&delay=_PARAM_DELAY_?editcss=https://adam10603.github.io/ControllerOverlay/controllerStyle.css";
@@ -32,8 +28,6 @@ function loadContents() {
     iframe.src          = baseURL;
     iframe.innerHTML    = "<p>Your browser does not support iframes.</p>";
     document.body.appendChild(iframe);
-
-    sleep(5000);
 
     if (!localStorage.overlayReloaded) {
         localStorage.setItem("overlayReloaded", "true");
