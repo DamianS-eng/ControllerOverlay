@@ -38,7 +38,7 @@ function loadContents() {
             window.location = window.location + '#loaded';
             window.location.reload(true);
         }
-    }, 1000);
+    }, 1500);
 }
 
 window.onload = loadContents;
