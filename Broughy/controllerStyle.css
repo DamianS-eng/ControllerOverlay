@@ -2,6 +2,14 @@
     background: url(base-white.png);
 }
 
+.xbox.disconnected {
+    background: url(xbox-assets/disconnected.svgz);
+}
+
+.xbox.disconnected div {
+    display: none;
+}
+
 .xbox .trigger {
     width: 88px;
     height: 121px;
