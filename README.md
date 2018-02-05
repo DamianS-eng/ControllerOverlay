@@ -7,11 +7,11 @@ This repository is hosting a set of modifications and custom skins made to work 
 
 ## Usage
 
-Simply visit [adam10603.github.io/ControllerOverlay](https://adam10603.github.io/ControllerOverlay) to get the overlay itself.
-This link will give you the default version of the overlay, but there is also a special skin made specifically for Broughy1322's Twitch streams, which is accessible at [adam10603.github.io/ControllerOverlay/Broughy](https://adam10603.github.io/ControllerOverlay/Broughy).
+Visit [adam10603.github.io/ControllerOverlay](https://adam10603.github.io/ControllerOverlay) for the overlay.
+This link will give you the default version, but there is also a special skin for Broughy1322's Twitch streams, which is accessible at [adam10603.github.io/ControllerOverlay/Broughy](https://adam10603.github.io/ControllerOverlay/Broughy).
 
-In case you want to use it inside OBS to appear on your streams / recordings, simply add the same URL as a browser source in OBS.
-Within OBS, it's recommended that you set the width and height in the browser source settings both to 800, the FPS to your recording / streaming frame rate, then right click on the overlay in the preview window, and set the scale filtering to bilinear.
+In case you want to use it in OBS, add the same URL as a browser source.
+In the browser source setup window, it's recommended that you set the width and height in the browser source settings both to 800, the FPS to your recording / streaming frame rate, then once you confirm it, right click on the overlay in the preview window, and set the scale filtering to bilinear.
 
 _______________
 Licensed under WTFPL v2 (see the file `COPYING`)
