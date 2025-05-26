@@ -26,7 +26,7 @@ function loadContents() {
 
     var baseURL = "https://gamepadviewer.com/?p=1&s=0&smeter=1&nocurve=1&soffset=28&sc=_PARAM_SC_&dz=_PARAM_DZ_&delay=_PARAM_DELAY_?editcss=" + currentLocation + "controllerStyle.css";
 
-    var dz      = 0.08;
+    var dz      = 0.0;
     var sc      = 1.0;
     var delay   = 0;
 
